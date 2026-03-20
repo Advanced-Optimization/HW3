@@ -1,0 +1,20 @@
+name: adv_opt3
+channels:
+  - conda-forge
+  - defaults
+  - mosek
+dependencies:
+  - python=3.12
+  - pip
+  - pytest
+
+  - black=25.11
+  - cvxpy
+  - jupyter
+  - matplotlib
+  - mosek
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
