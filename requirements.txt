@@ -1,0 +1,2 @@
+cma==4.4.4
+scikit-optimize==0.10.2
