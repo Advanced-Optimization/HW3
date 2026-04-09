@@ -20,3 +20,4 @@ dependencies:
   - seaborn
   - pip:
     - -r requirements.txt
+    - -e popcor

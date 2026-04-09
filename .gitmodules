@@ -1,0 +1,3 @@
+[submodule "popcor"]
+	path = popcor
+	url = git@github.com:duembgen/popcor
